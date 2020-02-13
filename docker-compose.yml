@@ -4,5 +4,6 @@ services:
     image: jupyter/all-spark-notebook
     ports:
       - "8888:8888"
+      - "5000:5000"
     volumes:
       - .:/home/jovyan/work
