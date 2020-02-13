@@ -6,6 +6,9 @@ see this [reference](https://medium.com/quaintitative/setting-up-a-data-lab-envi
 but implement this at DigitalOcean
 
 once finished docker-compose up -d
+
 find token through shown below:
+
 docker-compose ps
+
 docker logs <container_name>
