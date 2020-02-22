@@ -5,6 +5,8 @@ see this [reference](https://medium.com/quaintitative/setting-up-a-data-lab-envi
 
 but implement this at DigitalOcean
 
+test : docker-compose up -f docker-compose2.yml
+
 once finished docker-compose up -d
 
 find token through shown below:
